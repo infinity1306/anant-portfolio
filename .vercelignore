@@ -1,0 +1,6 @@
+scratch/
+*.py
+*.log
+.tempmediaStorage/
+node_modules/
+dist/

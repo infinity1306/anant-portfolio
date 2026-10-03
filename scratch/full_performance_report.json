@@ -1,0 +1,57 @@
+{
+  "test1": {
+    "preloader_appeared": false,
+    "decoded_count": 240,
+    "total_frames": 240,
+    "preload_duration_ms": 620.4000000059605,
+    "bitmaps_cached": true,
+    "preloader_faded_out": true
+  },
+  "test2": {
+    "drawn_frames_count": 134,
+    "max_continuous_step": 126,
+    "blink_hits": 0,
+    "avg_fps": 58.25373134328358
+  },
+  "test3": {
+    "drawn_frames_count": 152,
+    "max_continuous_step": 127,
+    "blink_hits": 0,
+    "avg_fps": 60.0
+  },
+  "test4": {
+    "drawn_frames_count": 504,
+    "max_continuous_step": 125,
+    "blink_hits": 0,
+    "avg_fps": 59.464285714285715
+  },
+  "test5": {
+    "drawn_frames_count": 692,
+    "max_continuous_step": 7,
+    "blink_hits": 0,
+    "avg_fps": 59.93063583815029
+  },
+  "test6": {
+    "drawn_frames_count": 505,
+    "max_continuous_step": 102,
+    "blink_hits": 0,
+    "avg_fps": 60.0
+  },
+  "test7": {
+    "drawn_frames_count": 204,
+    "max_continuous_step": 175,
+    "blink_hits": 0,
+    "avg_fps": 60.0
+  },
+  "test8": {
+    "drawn_frames_count": 3108,
+    "max_continuous_step": 125,
+    "blink_hits": 0,
+    "avg_fps": 59.93693693693694
+  },
+  "network_requests_during_interaction": 0,
+  "memory": {
+    "usedJSHeapSizeMB": "11.3",
+    "totalJSHeapSizeMB": "12.8"
+  }
+}

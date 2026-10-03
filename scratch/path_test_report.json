@@ -1,0 +1,202 @@
+{
+  "A_Slow_CW_Circle": {
+    "name": "A_Slow_CW_Circle",
+    "total_samples": 101,
+    "min_frame": 35,
+    "max_frame": 187,
+    "blinks": 0,
+    "max_step": 4,
+    "start_frame": 65,
+    "end_frame": 70,
+    "sample_state": {
+      "step": 50,
+      "x": 100.0,
+      "y": 450.00000000000006,
+      "frame": 170,
+      "primary": "Primary: LEFT (97%)",
+      "secondary": "Secondary: UP-LEFT (3%)",
+      "weights": "Weight: 97% / 3%",
+      "dirPill": "LEFT"
+    }
+  },
+  "B_Slow_CCW_Circle": {
+    "name": "B_Slow_CCW_Circle",
+    "total_samples": 101,
+    "min_frame": 35,
+    "max_frame": 188,
+    "blinks": 0,
+    "max_step": 4,
+    "start_frame": 70,
+    "end_frame": 69,
+    "sample_state": {
+      "step": 50,
+      "x": 100.0,
+      "y": 450.00000000000006,
+      "frame": 168,
+      "primary": "Primary: LEFT (96%)",
+      "secondary": "Secondary: DOWN-LEFT (4%)",
+      "weights": "Weight: 96% / 4%",
+      "dirPill": "LEFT"
+    }
+  },
+  "C_Figure_8": {
+    "name": "C_Figure_8",
+    "total_samples": 101,
+    "min_frame": 0,
+    "max_frame": 178,
+    "blinks": 0,
+    "max_step": 127,
+    "start_frame": 56,
+    "end_frame": 0,
+    "sample_state": {
+      "step": 50,
+      "x": 720.0000000000001,
+      "y": 449.99999999999994,
+      "frame": 0,
+      "primary": "Primary: CENTER (100%)",
+      "secondary": "Secondary: CENTER (0%)",
+      "weights": "Weight: 100% / 0%",
+      "dirPill": "CENTER / NEUTRAL"
+    }
+  },
+  "D_TopLeft_to_TopRight": {
+    "name": "D_TopLeft_to_TopRight",
+    "total_samples": 60,
+    "min_frame": 33,
+    "max_frame": 188,
+    "blinks": 0,
+    "max_step": 1,
+    "start_frame": 182,
+    "end_frame": 51,
+    "sample_state": {
+      "step": 30,
+      "x": 730.5084745762712,
+      "y": 144.0,
+      "frame": 33,
+      "primary": "Primary: UP (100%)",
+      "secondary": "Secondary: UP-LEFT (0%)",
+      "weights": "Weight: 100% / 0%",
+      "dirPill": "MODERATE UP"
+    }
+  },
+  "E_TopRight_to_BottomRight": {
+    "name": "E_TopRight_to_BottomRight",
+    "total_samples": 60,
+    "min_frame": 49,
+    "max_frame": 88,
+    "blinks": 0,
+    "max_step": 1,
+    "start_frame": 49,
+    "end_frame": 88,
+    "sample_state": {
+      "step": 30,
+      "x": 1309.0,
+      "y": 456.1016949152542,
+      "frame": 69,
+      "primary": "Primary: RIGHT (100%)",
+      "secondary": "Secondary: DOWN-RIGHT (0%)",
+      "weights": "Weight: 100% / 0%",
+      "dirPill": "RIGHT"
+    }
+  },
+  "F_BottomRight_to_BottomLeft": {
+    "name": "F_BottomRight_to_BottomLeft",
+    "total_samples": 60,
+    "min_frame": 86,
+    "max_frame": 144,
+    "blinks": 0,
+    "max_step": 2,
+    "start_frame": 86,
+    "end_frame": 144,
+    "sample_state": {
+      "step": 30,
+      "x": 709.4915254237288,
+      "y": 756.0,
+      "frame": 107,
+      "primary": "Primary: DOWN (100%)",
+      "secondary": "Secondary: DOWN-LEFT (0%)",
+      "weights": "Weight: 100% / 0%",
+      "dirPill": "MODERATE DOWN"
+    }
+  },
+  "G_BottomLeft_to_TopLeft": {
+    "name": "G_BottomLeft_to_TopLeft",
+    "total_samples": 60,
+    "min_frame": 141,
+    "max_frame": 184,
+    "blinks": 0,
+    "max_step": 2,
+    "start_frame": 141,
+    "end_frame": 184,
+    "sample_state": {
+      "step": 30,
+      "x": 131.0,
+      "y": 443.8983050847458,
+      "frame": 169,
+      "primary": "Primary: LEFT (100%)",
+      "secondary": "Secondary: UP-LEFT (0%)",
+      "weights": "Weight: 100% / 0%",
+      "dirPill": "LEFT"
+    }
+  },
+  "H_Center_Top_Center": {
+    "name": "H_Center_Top_Center",
+    "total_samples": 70,
+    "min_frame": 0,
+    "max_frame": 184,
+    "blinks": 0,
+    "max_step": 24,
+    "start_frame": 179,
+    "end_frame": 0,
+    "sample_state": {
+      "step": 35,
+      "x": 720.0,
+      "y": 90.0,
+      "frame": 35,
+      "primary": "Primary: UP (100%)",
+      "secondary": "Secondary: UP-LEFT (0%)",
+      "weights": "Weight: 100% / 0%",
+      "dirPill": "UP"
+    }
+  },
+  "I_Center_Bottom_Center": {
+    "name": "I_Center_Bottom_Center",
+    "total_samples": 70,
+    "min_frame": 0,
+    "max_frame": 109,
+    "blinks": 0,
+    "max_step": 98,
+    "start_frame": 0,
+    "end_frame": 0,
+    "sample_state": {
+      "step": 35,
+      "x": 720.0,
+      "y": 810.0,
+      "frame": 109,
+      "primary": "Primary: DOWN (100%)",
+      "secondary": "Secondary: DOWN-RIGHT (0%)",
+      "weights": "Weight: 100% / 0%",
+      "dirPill": "DOWN"
+    }
+  },
+  "J_Rapid_Left_Right_Left": {
+    "name": "J_Rapid_Left_Right_Left",
+    "total_samples": 60,
+    "min_frame": 0,
+    "max_frame": 169,
+    "blinks": 0,
+    "max_step": 66,
+    "start_frame": 167,
+    "end_frame": 169,
+    "sample_state": {
+      "step": 30,
+      "x": 1340.0,
+      "y": 450.0,
+      "frame": 0,
+      "primary": "Primary: UP-RIGHT (800%)",
+      "secondary": "Secondary: RIGHT (-700%)",
+      "weights": "Weight: 800% / -700%",
+      "dirPill": "UP-RIGHT"
+    }
+  }
+}
